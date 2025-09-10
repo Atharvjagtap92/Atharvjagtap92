@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **serverless application**
 
-- 🌱 I’m currently learning **AWS,python,**
+- 🌱 I’m currently learning **AWS,python,HTML,CSS,JavaScript,Docker,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
